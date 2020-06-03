@@ -1,0 +1,5 @@
+connect-flash es un paquete para Express bastante util, nos permite mostrar mensajes en la pantalla bajo ciertas condiciones.
+
+Por ejemplo para avisar cuando un usuario no tiene suficientes 
+permisos como para realizar una acción, 
+o al realizar cualquier otra acción como entrar o salir de su cuenta.

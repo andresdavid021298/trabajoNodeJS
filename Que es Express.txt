@@ -1,0 +1,5 @@
+Express.js , o simplemente Express , es un marco de aplicación web 
+para Node.js , lanzado como software gratuito y de código abierto 
+bajo la Licencia MIT . Está diseñado para crear aplicaciones web 
+y API .Se le ha llamado el estándar de facto marco servidor para 
+Node.js. 

@@ -1,0 +1,1 @@
+Partes comunes de la aplicacion, el menu, el footer, etc

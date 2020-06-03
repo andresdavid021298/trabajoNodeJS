@@ -1,0 +1,6 @@
+Handlebars.js es un motor de plantillas muy popular que es potente, 
+fácil de utilizar y que cuenta con una gran comunidad. 
+Se basa en el lenguaje de plantillas Mustache, 
+pero lo mejora de distintas maneras. Con Handlebars, 
+podrás separar el diseño HTML del resto de tu Javascript, 
+para así escribir código mucho más limpio.
